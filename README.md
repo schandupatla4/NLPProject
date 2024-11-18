@@ -47,8 +47,8 @@ Setup
 
     Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/schandupatla4/NLPProject.git    
+cd NLPProject
 
 Install dependencies:
 
