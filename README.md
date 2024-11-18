@@ -63,14 +63,15 @@ Set up OpenAI API:
 Usage
 Fine-tuning
 
-Run ORGINAL.ipynb to fine-tune pre-trained models on MRPC or SST-2 tasks.
+Run ORGINAL.ipynb to fine-tune pre-trained models on MRPC or SST-2 tasks or MNLI.
 Robustness Evaluation
 
 Use Robustness.ipynb to analyze performance on dynamic in-context learning tasks.
 Results
 
-    SST-2 Accuracy: Achieved X% using SuperICL with RoBERTa and GPT-4.
-    MRPC Accuracy: Achieved Y% with enhanced fine-tuning.
+    SST-2 Accuracy: Achieved 50% using SuperICL with RoBERTa and GPT-4.
+    MRPC Accuracy: Achieved 60% with enhanced fine-tuning.
+    MNLI Accuracy: Achieved 96.67%
 
 Future Work
 
